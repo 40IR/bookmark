@@ -1,1 +1,1 @@
-# javascript:(function(){let l=document.createElement("script");l.src="https://40ir.github.io/bookmark/bookmarklet/midnight.js";document.body.appendChild(l);})();void 0
+# javascript:(function(){var s=document.createElement('script');s.src='https://40ir.github.io/bookmark/bookmarklet/midnight.js?v=1';(document.head||document.documentElement).appendChild(s);})();

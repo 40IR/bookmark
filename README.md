@@ -1,5 +1,5 @@
 # Usage:
-`` copy and paste this code into a bookmark:``
-
 > [!NOTE]
-> This will be updated whenever i feel like it.
+> updates at random times.
+
+`` copy and paste this code into a bookmark:``

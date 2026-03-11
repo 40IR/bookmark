@@ -1,4 +1,4 @@
-(function() {
+javascript:(function() {
     if (window.midnightFactory) {
         window.midnightFactory();
         return;
